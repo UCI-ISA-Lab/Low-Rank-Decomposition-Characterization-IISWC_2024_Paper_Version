@@ -9,4 +9,4 @@ python parse_all_power_energy_time_data.py
 
 cd ../scripts
 # Compare the generated data with the data used in the paper (ground truth)
-python compare_generated_and_golden.py
+python compare_results_against_paper_data.py
