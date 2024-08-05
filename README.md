@@ -15,7 +15,7 @@ This repository contains all the code used for generating data of the paper titl
 
 # How to run
 1. Install all the software dependencies using conda
-`conda create -f -n iiswc_artifact_eval environment.yml`
+`conda create -f environment.yml`
 2. Clone this repository
 3. From the terminal, run:   
 `cd scripts`   
